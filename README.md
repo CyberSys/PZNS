@@ -61,6 +61,7 @@ Other NPC Mods - Aiteron NPC and SS/SSC GitHub
 - Jab (jabdoesthings)  
 - Notloc (notloc) - For a workaround on getting NPCs to run with B41 API.
 - Poltergeist (poltergeist_ix)
+- nestikdasvo_ (on steam, thanks for reminding me this project still exists in August 2026).
 
-# Support me on ko-fi!
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U0O1ZTH)
+# Project Dropped
+- I've lost interest in Project Zomboid and modding it. This project is free for anyone to use under the Standard MIT License.
